@@ -1,7 +1,8 @@
 # Local fork — TCL BeyondTV setup
 
-This is a **personal configuration** of [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)
-(MIT), based on upstream commit `76a9312`. Everything is upstream except the single change in
+Published at **<https://github.com/assassin1250-prog/cleanyourtv>** (a real fork of
+[Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv), MIT), based on upstream commit `76a9312`.
+Everything is upstream except one commit changing
 `launcher/app/src/main/res/values/config.xml`, made for a **TCL BeyondTV, Android 11, 2 GB** set.
 
 ## What this fork changes
