@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Home</string>
-    <string name="inputs">Inputs</string>
+    <string name="inputs">Sources</string>
     <string name="wifi">Wi-Fi</string>
     <string name="settings">Settings</string>
-    <string name="choose_input">Inputs</string>
+    <string name="choose_input">Sources</string>
     <string name="connected">Connected</string>
     <string name="standby">Standby</string>
     <string name="not_connected">No device</string>
